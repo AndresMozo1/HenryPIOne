@@ -83,6 +83,7 @@ def sentimentScore(text):
             return 1 # Neutral
     else:
         return 1  # Valor neutral para datos que no son de tipo cadena
+    
 
 import nltk
 nltk.download("vader_lexicon")
