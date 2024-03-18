@@ -16,6 +16,8 @@ Una característica distintiva de Steam es su enfoque en los juegos multijugador
 
 En resumen, Steam es una plataforma integral para la distribución y gestión de contenido digital en el ámbito de los videojuegos y el entretenimiento.
 
+Al obtener este contexto entendi la naturaleza de los datos que se me asignaron para manipular, fije un objetivo que es entregar un MVP(Minimum Viable Product-por la disponibilidad de recursos-) bien estructurado, funcional y fiable para las consultas de mi cliente ademas de alivianar y priorizar los datos necesarios para generar un modelo de Machine Learning que reciba un id de determinado juego y recomiende 5 juegos por su similitud.
+
 ## Contenido del Repositorio
 
 Este repositorio contiene varios recursos útiles:
@@ -32,8 +34,8 @@ Para utilizar este proyecto, sigue estos pasos:
 1. Clona este repositorio en tu máquina local.
 2. Instala las librerías de Python especificadas en el archivo "requirements.txt" utilizando `pip install -r requirements.txt`.
 3. Ejecuta el archivo "main.py" para iniciar el servicio web de la API.
-4. Puedes acceder a la documentación de la API a través del siguiente enlace: [API en Render](https://henrypione.onrender.com).
-5. Además, adjunto un vídeo explicativo que puedes ver aquí: [Vídeo Explicativo](https://).
+4. Puedes acceder consumir la API a través del siguiente enlace: [API en Render](https://henrypione.onrender.com).
+5. Además, adjunto un vídeo explicativo de su funcionamiento: [Vídeo Explicativo](https://).
 
 
 
