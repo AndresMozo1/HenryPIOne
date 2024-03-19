@@ -1,6 +1,9 @@
 # PrimerProyectoIndividualSoyHenry
 ## SistemaDeRecomendacionSteam
 
+![image](https://github.com/AndresMozo1/HenryPIOne/assets/76072127/c9e82398-9f68-4ef3-8d5f-db05e3dbf2df)
+
+
 ---
 
 ## Descripción del Proyecto
@@ -21,12 +24,15 @@ Al obtener este contexto entendi la naturaleza de los datos que se me asignaron 
 
 ## Contenido del Repositorio
 
-Este repositorio contiene varios recursos útiles:
+## Contenido del Repositorio
 
-- Un notebook equivalente al EDA (Análisis Exploratorio de Datos).
-- Un notebook equivalente al ETL (Extracción, Transformación y Carga de Datos).
-- Otro notebook ML.ipynb detallando los pasos seguidos en la construcción del sistema de recomendación.
-- Archivos "main.py" y "requirements.txt" con el código principal y las librerías de Python necesarias para instalar en el servicio web de Render, respectivamente.
+- **EDA**: Un notebook equivalente al Análisis Exploratorio de Datos.
+- **ETL**: Un notebook equivalente a la Extracción, Transformación y Carga de Datos.
+- **ML**: Un notebook detallando los pasos seguidos en la construcción del sistema de recomendación.
+- **Código**: 
+  - `main.py`: Archivo principal del código.
+  - `requirements.txt`: Archivo de requisitos con las librerías de Python necesarias para instalar en el servicio web de Render.
+
 
 ## Instalación y Uso
 
