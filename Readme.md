@@ -26,9 +26,11 @@ Al obtener este contexto entendi la naturaleza de los datos que se me asignaron 
 
 ## Contenido del Repositorio
 
-- **EDA**:Data Un notebook equivalente al Análisis Exploratorio de Datos.
-- **ETL**: Un notebook equivalente a la Extracción, Transformación y Carga de Datos.
-- **ML**: Un notebook detallando los pasos seguidos en la construcción del sistema de recomendación.
+- Análisis Exploratorio de Datos (EDA): [EDA.ipynb](notebook_equivalente_EDA.ipynb)
+- Extracción, Transformación y Carga de Datos (ETL): [ETL.ipynb](notebook_ETL.ipynb)
+- Construcción del sistema de recomendación (ML): [ML.ipynb](notebook_ML.ipynb)
+
+
 - **Código**: 
   - `main.py`: Archivo principal del código.
   - `requirements.txt`: Archivo de requisitos con las librerías de Python necesarias para instalar en el servicio web de Render.
