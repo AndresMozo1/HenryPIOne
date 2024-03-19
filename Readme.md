@@ -41,7 +41,7 @@ Para utilizar este proyecto, sigue estos pasos:
 1. Clona este repositorio en tu máquina local.
 2. Instala las librerías de Python especificadas en el archivo "requirements.txt" utilizando `pip install -r requirements.txt`.
 3. Ejecuta el archivo "main.py" para iniciar el servicio web de la API.
-4. Puedes acceder consumir la API a través del siguiente enlace: [API en Render](https://henrypione.onrender.com).
+4. Puedes acceder consumir la API a través del siguiente enlace: [API en Render](https://henrypione.onrender.com/docs#/).
 5. Además, adjunto un vídeo explicativo de su funcionamiento: [Vídeo Explicativo](https://youtu.be/gLeUPkn1pl0?si=DfqIp4WfsR_4V5t7).
 
 
