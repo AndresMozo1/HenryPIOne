@@ -22,7 +22,6 @@ En resumen, Steam es una plataforma integral para la distribución y gestión de
 
 Al obtener este contexto entendi la naturaleza de los datos que se me asignaron para manipular, fije un objetivo que es entregar un MVP(Minimum Viable Product-por la disponibilidad de recursos-) bien estructurado, funcional y fiable para las consultas de mi cliente ademas de alivianar y priorizar los datos necesarios para generar un modelo de Machine Learning que reciba un id de determinado juego y recomiende 5 juegos por su similitud.
 
-## Contenido del Repositorio
 
 ## Contenido del Repositorio
 
@@ -34,7 +33,7 @@ Al obtener este contexto entendi la naturaleza de los datos que se me asignaron 
  - **Código**:
   - `main.py`: [Archivo principal del código](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/main.py).
   - `requirements.txt`: [Archivo de requisitos con las librerías de Python](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/requirements.txt) necesarias para instalar en el servicio web de Render.
-  - `tools.py`: [Archivo con funciones útiles](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/tools.py) que se utilizarán en los diferentes notebooks.
+  - `tools.py`: [Archivo con las funciones](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/tools.py) que se utilizarán en los diferentes notebooks.
 
 
 ## Instalación y Uso
