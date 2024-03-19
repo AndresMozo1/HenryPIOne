@@ -26,14 +26,15 @@ Al obtener este contexto entendi la naturaleza de los datos que se me asignaron 
 
 ## Contenido del Repositorio
 
-- Análisis Exploratorio de Datos (EDA): [EDA.ipynb](notebook_equivalente_EDA.ipynb)
-- Extracción, Transformación y Carga de Datos (ETL): [ETL.ipynb](notebook_ETL.ipynb)
-- Construcción del sistema de recomendación (ML): [ML.ipynb](notebook_ML.ipynb)
+- Análisis Exploratorio de Datos (EDA): [EDA.ipynb](https://github.com/AndresMozo1/HenryPIOne/blob/73aeb40cba01fde1224ff23fb637412729953600/EDA.ipynb)
+- Extracción, Transformación y Carga de Datos (ETL): [ETL.ipynb](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/ETL.ipynb)
+- Construcción del sistema de recomendación (ML): [ML.ipynb](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/ML.ipynb)
 
 
-- **Código**: 
-  - `main.py`: Archivo principal del código.
-  - `requirements.txt`: Archivo de requisitos con las librerías de Python necesarias para instalar en el servicio web de Render.
+ - **Código**:
+  - `main.py`: [Archivo principal del código](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/main.py).
+  - `requirements.txt`: [Archivo de requisitos con las librerías de Python](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/requirements.txt) necesarias para instalar en el servicio web de Render.
+  - `tools.py`: [Archivo con funciones útiles](https://github.com/AndresMozo1/HenryPIOne/blob/80a1637d9949c9a93896c779485d3db2372f276e/tools.py) que se utilizarán en los diferentes notebooks.
 
 
 ## Instalación y Uso
