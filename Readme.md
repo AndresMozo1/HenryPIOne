@@ -1,4 +1,5 @@
-# Steam_proyecto_HENRY
+# PrimerProyectoIndividualSoyHenry
+## SistemaDeRecomendacionSteam
 
 ---
 
@@ -8,7 +9,7 @@
 
 ## Un poco de contexto...
 
-En esta etapa, comencé extrayendo información suministrada por la compañía Valve Corporation, creadora de la plataforma Steam. Steam, lanzada en septiembre de 2003, tiene más de 20 años en el mercado y es una de las plataformas más populares para la distribución de videojuegos en formato digital.
+En esta etapa, comencé tomando la información suministrada por la compañía Valve Corporation, creadora de la plataforma Steam. Steam, lanzada en septiembre de 2003, tiene más de 20 años en el mercado y es una de las plataformas más populares para la distribución de videojuegos en formato digital.
 
 Los usuarios de Steam pueden comprar, descargar e instalar juegos directamente a través de la plataforma. Además de juegos, Steam también ofrece software, contenido multimedia y otros productos relacionados con el entretenimiento. La plataforma también proporciona funciones sociales, como chat, grupos y perfiles de usuario, lo que permite a los jugadores conectarse entre sí.
 
@@ -35,7 +36,7 @@ Para utilizar este proyecto, sigue estos pasos:
 2. Instala las librerías de Python especificadas en el archivo "requirements.txt" utilizando `pip install -r requirements.txt`.
 3. Ejecuta el archivo "main.py" para iniciar el servicio web de la API.
 4. Puedes acceder consumir la API a través del siguiente enlace: [API en Render](https://henrypione.onrender.com).
-5. Además, adjunto un vídeo explicativo de su funcionamiento: [Vídeo Explicativo](https://).
+5. Además, adjunto un vídeo explicativo de su funcionamiento: [Vídeo Explicativo](https://youtu.be/gLeUPkn1pl0?si=DfqIp4WfsR_4V5t7).
 
 
 
