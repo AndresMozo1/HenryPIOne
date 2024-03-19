@@ -26,7 +26,7 @@ Al obtener este contexto entendi la naturaleza de los datos que se me asignaron 
 
 ## Contenido del Repositorio
 
-- **EDA**: Un notebook equivalente al Análisis Exploratorio de Datos.
+- **EDA**:Data Un notebook equivalente al Análisis Exploratorio de Datos.
 - **ETL**: Un notebook equivalente a la Extracción, Transformación y Carga de Datos.
 - **ML**: Un notebook detallando los pasos seguidos en la construcción del sistema de recomendación.
 - **Código**: 
